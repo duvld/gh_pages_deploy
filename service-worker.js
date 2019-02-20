@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "duvld.github.io/gh_pages_deploy/precache-manifest.870ffc3a115abd26e177a324c8809bfa.js"
+  "/gh_pages_deploy/precache-manifest.bd85b7f9e58a4ebe26b5797d9a2182c0.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("duvld.github.io/gh_pages_deploy/index.html", {
+workbox.routing.registerNavigationRoute("/gh_pages_deploy/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

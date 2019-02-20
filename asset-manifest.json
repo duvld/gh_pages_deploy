@@ -1,14 +1,14 @@
 {
-  "main.css": "duvld.github.io/gh_pages_deploy/static/css/main.61c2d2ad.chunk.css",
-  "main.js": "duvld.github.io/gh_pages_deploy/static/js/main.0a414f43.chunk.js",
-  "main.js.map": "duvld.github.io/gh_pages_deploy/static/js/main.0a414f43.chunk.js.map",
-  "runtime~main.js": "duvld.github.io/gh_pages_deploy/static/js/runtime~main.2cba3c62.js",
-  "runtime~main.js.map": "duvld.github.io/gh_pages_deploy/static/js/runtime~main.2cba3c62.js.map",
-  "static/js/2.ba1ca5ba.chunk.js": "duvld.github.io/gh_pages_deploy/static/js/2.ba1ca5ba.chunk.js",
-  "static/js/2.ba1ca5ba.chunk.js.map": "duvld.github.io/gh_pages_deploy/static/js/2.ba1ca5ba.chunk.js.map",
-  "index.html": "duvld.github.io/gh_pages_deploy/index.html",
-  "precache-manifest.870ffc3a115abd26e177a324c8809bfa.js": "duvld.github.io/gh_pages_deploy/precache-manifest.870ffc3a115abd26e177a324c8809bfa.js",
-  "service-worker.js": "duvld.github.io/gh_pages_deploy/service-worker.js",
-  "static/css/main.61c2d2ad.chunk.css.map": "duvld.github.io/gh_pages_deploy/static/css/main.61c2d2ad.chunk.css.map",
-  "static/media/logo.svg": "duvld.github.io/gh_pages_deploy/static/media/logo.5d5d9eef.svg"
+  "main.css": "/gh_pages_deploy/static/css/main.61c2d2ad.chunk.css",
+  "main.js": "/gh_pages_deploy/static/js/main.6193158f.chunk.js",
+  "main.js.map": "/gh_pages_deploy/static/js/main.6193158f.chunk.js.map",
+  "runtime~main.js": "/gh_pages_deploy/static/js/runtime~main.514a32e5.js",
+  "runtime~main.js.map": "/gh_pages_deploy/static/js/runtime~main.514a32e5.js.map",
+  "static/js/2.ba1ca5ba.chunk.js": "/gh_pages_deploy/static/js/2.ba1ca5ba.chunk.js",
+  "static/js/2.ba1ca5ba.chunk.js.map": "/gh_pages_deploy/static/js/2.ba1ca5ba.chunk.js.map",
+  "index.html": "/gh_pages_deploy/index.html",
+  "precache-manifest.bd85b7f9e58a4ebe26b5797d9a2182c0.js": "/gh_pages_deploy/precache-manifest.bd85b7f9e58a4ebe26b5797d9a2182c0.js",
+  "service-worker.js": "/gh_pages_deploy/service-worker.js",
+  "static/css/main.61c2d2ad.chunk.css.map": "/gh_pages_deploy/static/css/main.61c2d2ad.chunk.css.map",
+  "static/media/logo.svg": "/gh_pages_deploy/static/media/logo.5d5d9eef.svg"
 }
